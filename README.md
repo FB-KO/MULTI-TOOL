@@ -31,3 +31,7 @@ git clone https://github.com/FB-KO/MULTI-TOOL
 cd MULTI-TOOL
 
 python MULTI-TOOL.py
+
+💖 This tools is paid.. You need parmation to use this tools...💖
+
+💖 enjoy uodated ok id tools 💖
