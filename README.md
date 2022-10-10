@@ -32,6 +32,7 @@ cd MULTI-TOOL
 
 python MULTI-TOOL.py
 
-💖 This tools is paid.. You need parmation to use this tools...💖
+Note: ( This Tools Are Paid, So You Need Permission To Use FB-KO MULTI-TOOL Tools Enjoy )
 
-💖 enjoy uodated ok id tools 💖
+Note: { Only BD User Knock On Whatsapp }
+Number > +8801917466867
