@@ -40,7 +40,7 @@ git clone https://github.com/FB-KO/MULTI-TOOL
 
 cd MULTI-TOOL
 
-python MULTI-TOOL.py
+python FB-KO.py
 
 Note: ( This Tools Are Paid, So You Need Permission To Use FB-KO MULTI-TOOL Tools Enjoy )
 
